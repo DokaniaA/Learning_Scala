@@ -9,6 +9,7 @@ object Hello_one {
   }
 }
 
+//below is code to print today's date
 import java.util.{Date, Locale}
 import java.text.DateFormat
 import java.text.DateFormat._
