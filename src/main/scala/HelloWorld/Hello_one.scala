@@ -1,3 +1,4 @@
+// This is try some hands on examples in Scala
 package HelloWorld
 
 object Hello_one {
